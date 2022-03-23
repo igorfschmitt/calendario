@@ -1,0 +1,59 @@
+body{
+	margin: 0px;
+}
+
+#menu ul li{
+	list-style: none;
+	display: inline;
+	padding:  20px;
+	font-family: helvetica;
+}
+
+#menu ul{
+	padding-top: 20px;
+}
+
+#menu{
+	background-image: linear-gradient( to right, #18AECF, #00FA9A);
+	height: 60px;
+	width: 100%;
+	text-align: center;
+}
+
+#menu ul li a{
+	text-decoration: none;
+	color: #000000;
+}
+
+#menu ul li a:hover{
+	color: #ffffff;
+}
+
+.titulo{
+	padding-top: 20px;
+	font-size: 50px;
+	text-align: center;
+	font-family: helvetica;
+	color: #2F4F4F;
+}
+
+#lista{
+	padding-top: 20px;
+	width: 100%;
+	text-align: left;
+	font-family: helvetica;
+	margin-left: 500px;
+}
+
+#lista ul li{
+	list-style: none;
+	text-decoration: none;
+	color: #000000;
+}
+
+#box{
+	float: left;
+	width: 100%;
+	text-align: left;
+	margin-left: 500px;
+}
